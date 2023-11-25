@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Hello Flipcart Here..How can i Help you!</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Hello Flipcart Here..How can i Help you!!</span>
             <ul id="menu">
 
                 <li><a href="#about">Ravidx </a></li>
